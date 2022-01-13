@@ -1,0 +1,529 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should open modal to validate 1`] = `
+<div>
+  <div
+    class="css-mv96ze"
+  >
+    <div
+      class="css-1thq8i2"
+    >
+      Esferas
+    </div>
+    <div
+      class="form-group"
+    >
+      <label
+        class=""
+        for="filter"
+      >
+        Filtrar
+      </label>
+      <select
+        class="form-control"
+        data-testid="filter"
+        id="filter"
+        name="select"
+      >
+        <option
+          value="all"
+        >
+          Todas as esferas
+        </option>
+        <option
+          value="me"
+        >
+          Minhas esferas
+        </option>
+        <option
+          value="notme"
+        >
+          Não tenho
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    class="row"
+  >
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="1 estrela"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/a5/f9/a2/a5f9a2eb5c0bfb1f66988696e1f31334.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            1 estrela
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="2 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/0b/72/75/0b72755a5ea5e1999d6fbfd3aa544355.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            2 estrelas
+          </div>
+          <span
+            class="badge badge-danger"
+          >
+            Não encontrada
+          </span>
+          <button
+            class="btn btn-warning btn-sm"
+            type="button"
+          >
+            encontrei
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="3 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/32/eb/b8/32ebb8536d0fa4108eef460694586d39.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            3 estrelas
+          </div>
+          <span
+            class="badge badge-danger"
+          >
+            Não encontrada
+          </span>
+          <button
+            class="btn btn-warning btn-sm"
+            type="button"
+          >
+            encontrei
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="4 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/7a/7f/76/7a7f76ea01702078582a1ae8b7344fb3.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            4 estrelas
+          </div>
+          <span
+            class="badge badge-danger"
+          >
+            Não encontrada
+          </span>
+          <button
+            class="btn btn-warning btn-sm"
+            type="button"
+          >
+            encontrei
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="5 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/13/19/62/1319628426fa9d3783705daf7db525f8.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            5 estrelas
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="6 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/originals/6c/72/47/6c7247dfb67e18add93d682dc9fdabcc.png"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            6 estrelas
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="7 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/ec/8e/c5/ec8ec55eb1b4d4dfa3f7b2cbffe5bc6c.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            7 estrelas
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Should render all dragon balls 1`] = `
+<div>
+  <div
+    class="css-mv96ze"
+  >
+    <div
+      class="css-1thq8i2"
+    >
+      Esferas
+    </div>
+    <div
+      class="form-group"
+    >
+      <label
+        class=""
+        for="filter"
+      >
+        Filtrar
+      </label>
+      <select
+        class="form-control"
+        data-testid="filter"
+        id="filter"
+        name="select"
+      >
+        <option
+          value="all"
+        >
+          Todas as esferas
+        </option>
+        <option
+          value="me"
+        >
+          Minhas esferas
+        </option>
+        <option
+          value="notme"
+        >
+          Não tenho
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    class="row"
+  >
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="1 estrela"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/a5/f9/a2/a5f9a2eb5c0bfb1f66988696e1f31334.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            1 estrela
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="2 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/0b/72/75/0b72755a5ea5e1999d6fbfd3aa544355.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            2 estrelas
+          </div>
+          <span
+            class="badge badge-danger"
+          >
+            Não encontrada
+          </span>
+          <button
+            class="btn btn-warning btn-sm"
+            type="button"
+          >
+            encontrei
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="3 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/32/eb/b8/32ebb8536d0fa4108eef460694586d39.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            3 estrelas
+          </div>
+          <span
+            class="badge badge-danger"
+          >
+            Não encontrada
+          </span>
+          <button
+            class="btn btn-warning btn-sm"
+            type="button"
+          >
+            encontrei
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="4 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/7a/7f/76/7a7f76ea01702078582a1ae8b7344fb3.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            4 estrelas
+          </div>
+          <span
+            class="badge badge-danger"
+          >
+            Não encontrada
+          </span>
+          <button
+            class="btn btn-warning btn-sm"
+            type="button"
+          >
+            encontrei
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="5 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/13/19/62/1319628426fa9d3783705daf7db525f8.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            5 estrelas
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="6 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/originals/6c/72/47/6c7247dfb67e18add93d682dc9fdabcc.png"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            6 estrelas
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-sm-3"
+    >
+      <div
+        class="sc-AxjAm iGDTZF card"
+      >
+        <img
+          alt="7 estrelas"
+          class="card-img-top"
+          src="https://i.pinimg.com/564x/ec/8e/c5/ec8ec55eb1b4d4dfa3f7b2cbffe5bc6c.jpg"
+          width="100%"
+        />
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-title"
+          >
+            7 estrelas
+          </div>
+          <span
+            class="badge badge-success"
+          >
+            Encontrada
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Action 1`] = `
+<div>
+  <div
+    class="sc-AxjAm gqoJub"
+    data-testid="card-shenlong"
+  >
+    <div
+      class="css-1brk784"
+    >
+      Invocar shenlong
+    </div>
+    <button
+      class="btn btn-warning"
+      data-testid="invoke-button"
+      type="button"
+    >
+      Invocar
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Should show shenlong 1`] = `
+<div>
+  <img
+    class="sc-AxirZ hyvxts"
+    data-testid="shenlong"
+    src="https://static.wixstatic.com/media/ecfb5e_dbd3be9fe8f14cc2a37e91167d125bc2.png/v1/fill/w_784,h_784,al_c,q_95,usm_0.66_1.00_0.01/ecfb5e_dbd3be9fe8f14cc2a37e91167d125bc2.webp"
+  />
+  <div
+    class="sc-AxjAm gqoJub"
+    data-testid="card-shenlong"
+  >
+    <div
+      class="css-1brk784"
+    >
+      Invocar shenlong
+    </div>
+    <button
+      class="btn btn-warning"
+      data-testid="invoke-button"
+      type="button"
+    >
+      Invocar
+    </button>
+  </div>
+</div>
+`;
