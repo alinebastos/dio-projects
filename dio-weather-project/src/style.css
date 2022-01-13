@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0;
+    margin:0;
+    text-align: center;
+}
+
+.app {
+    background-color: #5C7AFF;
+    color:#fff;
+    width:300px;
+    margin: 20vh auto;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+    padding:50px;
+}
+
+.app h1 {
+    font-size: 5em;
+    padding:10px;
+    margin-left:25px;
+    font-weight: 300;
+}
+
+.app h2 {
+    font-weight: 300;
+    letter-spacing: 5px;
+}
