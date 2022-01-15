@@ -1,0 +1,51 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614176/clone-instagram/EfVhPSyUEAAfmfD_1_dqbkkx.png",
+      "small": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614357/clone-instagram/_iaMvfkM_reasonably_small_varo9m.jpg",
+      "aspectRatio": 0.834,
+      "description": "Quem aí concorda? Rosto pensativo? Já diria o grande Linus Torvalds \"Falar é fácil, me mostre o código.\"",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/robertosousa1/image/upload/v1597613521/clone-instagram/EfO2cKpVAAE3ECb_1_q0jp0e.jpg",
+      "small": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614357/clone-instagram/_iaMvfkM_reasonably_small_varo9m.jpg",
+      "aspectRatio": 0.834,
+      "description": "[HOJE ÀS 19H] Aplicações escaláveis com Docker e Kubernets  🚀\n\nAprenda ao vivo, com Sandro Giacomozzi, Software Engineer na TOTVS, tudo sobre aplicações escaláveis com Docker e Kubernets.\n\nAssista a live hoje, 12/08 às 19h, através do nosso Facebook, LinkedIn e YouTube!\n✅",
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/robertosousa1/image/upload/v1597612812/clone-instagram/EeQ48sCVoAEY-L8_1_mcvcwh.jpg",
+      "small": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614357/clone-instagram/_iaMvfkM_reasonably_small_varo9m.jpg",
+      "aspectRatio": 0.834,
+      "description": "Gabriela Pinheiro foi eleita pela nossa comunidade como DIO Tech Hero! \"Sei da importância do ensino gratuito e acessível de qualidade, ajudando milhares de pessoas à alcançarem seus objetivos e mudarem de vida\". Clique aqui e se cadastre para contribuir: https://zcu.io/93En",
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/robertosousa1/image/upload/v1597613669/clone-instagram/EeMK0vcUEAAevJY_1_axfpot.jpg",
+      "small": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614357/clone-instagram/_iaMvfkM_reasonably_small_varo9m.jpg",
+      "aspectRatio": 0.834,
+      "description": "Pablo Henrique foi eleito como DIO Tech Hero! Para ele \"Ver os alunos aprenderem com o conteúdo e darem feedbacks maravilhosos, criando seus próprios aplicativos e colocando em prática o que aprenderam, é muito gratificante.\" Para ensinar, cadastre-se: https://zcu.io/n2ku",
+      "authorId": 1
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/robertosousa1/image/upload/v1597613959/clone-instagram/EeHZVa2UcAA8MVj_1_it0vjd.png",
+      "small": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614357/clone-instagram/_iaMvfkM_reasonably_small_varo9m.jpg",
+      "aspectRatio": 0.834,
+      "description": "Sinal de aviso Alerta: inscrições chegando ao fim!\n\nÚltimos dias para você se inscrever gratuitamente no bootcamp \"Cloud Computing & Serverless\", conhecer as ferramentas de computação em nuvem da Microsoft e os principais serviços do Azure.\n\nMatricule-se: https://zcu.io/pq0r 🧲",
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "dio4tech",
+      "avatar": "https://res.cloudinary.com/robertosousa1/image/upload/v1597614357/clone-instagram/_iaMvfkM_reasonably_small_varo9m.jpg"
+    }
+  ]
+}
